@@ -19,7 +19,7 @@
 
 Step 1 :
                   Star and Fork this Two Repo
-                 ✔ [*Management bot](https://github.com/LOGI-TECH/LOGI-BOT)
+                 ✔ [*Management bot](https://github.com/TejinderAujla/AujlaMangment)
                   ✔ [*music bot](https://github.com/LOGI-TECH/MUSIC)
                   
 Step 2 :
@@ -67,14 +67,14 @@ Step 2 :
  ## 🚀 Okteto Deployment
 
 <h4>Click the button below to deploy  on Okteto!</h4>
-<a href="https://cloud.okteto.com/deploy?repository=https://github.com/LOGI-TECH/MUSIC"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200""/></a>
+<a href="https://cloud.okteto.com/deploy?repository=https://github.com/TejinderAujla/AujlaMangment"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200""/></a>
 
   ## 🚀 Heroku Deployment
         
  Press this Button to Depoly Music Bot in Heroku
   
  
-   [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LOGI-TECH/MUSIC)
+   [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TejinderAujla/AujlaMangment)
   
   Step 6:
   
