@@ -57,7 +57,7 @@ async def start_bot():
             bot_modules += "|{:<15}".format(i)
         j += 1
     print("+===============================================================+")
-    print("|                     @CL_ME_LOGESH                             |")
+    print("|                     @Aujla_PB_65                             |")
     print("+===============+===============+===============+===============+")
     print(bot_modules)
     print("+===============+===============+===============+===============+")
@@ -96,7 +96,7 @@ home_keyboard_pm = InlineKeyboardMarkup(
         [
             InlineKeyboardButton(
                 text=" 🦋 Tʜɪꜱ Bᴏᴛ Rᴇᴘᴏ ɪɴ  GɪᴛHᴜʙ 🦋",
-                url=f"https://github.com/LOGI-TECH/LOGI-BOT",
+                url=f"https://github.com/TejinderAujla/AujlaMangment",
             )
         ],        
         [
@@ -105,7 +105,7 @@ home_keyboard_pm = InlineKeyboardMarkup(
             ),
             InlineKeyboardButton(
                 text="🦋 Mᴜꜱɪᴄ 🦋",
-                url=f"https://telegra.ph/MUSIC-COMMANDS-04-06",
+                url=f"https://telegra.ph/Aujla-Music-Commands-03-18",
             ),
         ],        
         [
@@ -151,7 +151,7 @@ f"[❤]({ START_IMG})"f"""
 ✪ ɪ'ᴍ ᴀ ᴛᴇʟᴇɢʀᴀᴍ strᴇᴀᴍɪɴɢ ʙᴏᴛ ᴡɪᴛʜ ꜱᴏᴍᴇ ᴜꜱᴇꜰᴜʟ ꜰᴇᴀᴛᴜʀᴇꜱ. ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴘʟᴀᴛꜰᴏʀᴍꜱ ʟɪᴋᴇ ʏᴏᴜᴛᴜʙᴇ, ꜱᴘᴏᴛɪꜰʏ, ʀᴇꜱꜱᴏ, ᴀᴘᴘʟᴇᴍᴜꜱɪᴄ , ꜱᴏᴜɴᴅᴄʟᴏᴜᴅ ᴇᴛᴄ.
 ✪ ꜰᴇᴇʟ ꜰʀᴇᴇ ᴛᴏ ᴀᴅᴅ ᴍᴇ .
 ───────────────────────
-× *Pᴏᴡᴇʀᴇᴅ Bʏ: @LGBots 💕!*
+× *Pᴏᴡᴇʀᴇᴅ Bʏ: @Lions_OF_Punjab 💕!*
 ───────────────────────
 """
 )
@@ -161,7 +161,7 @@ keyboard = InlineKeyboardMarkup(
         [
             InlineKeyboardButton(
                 text=" 🦋 Tʜɪꜱ Bᴏᴛ Rᴇᴘᴏ ɪɴ  GɪᴛHᴜʙ 🦋",
-                url=f"https://github.com/LOGI-TECH/LOGI-BOT",
+                url=f"https://github.com/TejinderAujla/AujlaMangment",
             )
         ],        
         [
@@ -170,7 +170,7 @@ keyboard = InlineKeyboardMarkup(
             ),
             InlineKeyboardButton(
                 text="🦋 Mᴜꜱɪᴄ 🦋",
-                url=f"https://telegra.ph/MUSIC-COMMANDS-04-06",
+                url=f"https://telegra.ph/Aujla-Music-Commands-03-18",
             ),
         ],        
         [
